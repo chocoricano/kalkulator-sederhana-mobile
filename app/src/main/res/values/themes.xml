@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Latihan1kalkulator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#69567E</item>
+        <item name="colorPrimaryVariant">#988EA3</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#69618D</item>
+        <item name="colorSecondaryVariant">#7F66D8</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Latihan1kalkulator" parent="Base.Theme.Latihan1kalkulator" />
+</resources>
